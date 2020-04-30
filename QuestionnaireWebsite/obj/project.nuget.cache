@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H2LJMp8iifyKceBSvZ3uU/D6YPgJlblOSMr6GFQCC7q2grWDa1vPOgr+g41qKPPgC4fzcnABu1GWilGq/BEv9g==",
+  "dgSpecHash": "gWR/rQexjUKQDTtQxxAPDAY1qWb54slIUMDXE/c+PuhALOYsQ3NGCkYqyuXiTNlBophhvqY2G4goEeygYC4eqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kireto\\source\\repos\\QuestionnaireWebsite\\QuestionnaireWebsite\\QuestionnaireWebsite.csproj",
+  "projectFilePath": "C:\\Users\\Kireto\\Source\\Repos\\KirilYakimov\\QuestionnaireApp\\QuestionnaireWebsite\\QuestionnaireWebsite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kireto\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.3\\microsoft.aspnetcore.cryptography.internal.3.1.3.nupkg.sha512",
     "C:\\Users\\Kireto\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.3\\microsoft.aspnetcore.cryptography.keyderivation.3.1.3.nupkg.sha512",

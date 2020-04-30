@@ -8600,11 +8600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kireto\\source\\repos\\QuestionnaireWebsite\\QuestionnaireWebsite\\QuestionnaireWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\Kireto\\Source\\Repos\\KirilYakimov\\QuestionnaireApp\\QuestionnaireWebsite\\QuestionnaireWebsite.csproj",
       "projectName": "QuestionnaireWebsite",
-      "projectPath": "C:\\Users\\Kireto\\source\\repos\\QuestionnaireWebsite\\QuestionnaireWebsite\\QuestionnaireWebsite.csproj",
+      "projectPath": "C:\\Users\\Kireto\\Source\\Repos\\KirilYakimov\\QuestionnaireApp\\QuestionnaireWebsite\\QuestionnaireWebsite.csproj",
       "packagesPath": "C:\\Users\\Kireto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kireto\\source\\repos\\QuestionnaireWebsite\\QuestionnaireWebsite\\obj\\",
+      "outputPath": "C:\\Users\\Kireto\\Source\\Repos\\KirilYakimov\\QuestionnaireApp\\QuestionnaireWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kireto\\AppData\\Roaming\\NuGet\\NuGet.Config",
